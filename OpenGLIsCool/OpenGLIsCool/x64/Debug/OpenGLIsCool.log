@@ -1,0 +1,4 @@
+﻿  glad.c
+  theMain.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLIsCool.vcxproj -> C:\Users\DahyeMin\Desktop\INFO3111\Week 8\Code\OpenGLIsCool\x64\Debug\OpenGLIsCool.exe
